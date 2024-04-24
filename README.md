@@ -1,6 +1,6 @@
 ### Hi there! I'm Joseph (he/him). Thanks for visiting! 👋
 
-I am a 26 year old back-end engineer with a 3 years of Business Analyst experience. I graduated from the Turing School of Software & Design, studying back-end tools such as Ruby on Rails, RESTful APIs, GraphQL applications, and SQL. I also have exposure to front-end elements such as React, HTML and CSS. I love to write clean, professional code, with an emphasis on TDD (Test Driven Development).
+I am a 26 year old back-end engineer with a 3 years of Business Analyst experience. I graduated from the Turing School of Software & Design, studying back-end tools such as Ruby on Rails, RESTful APIs, GraphQL applications, and SQL. I also have exposure to front-end elements such as React, HTML and CSS, and I am in the process of teaching myself Javascript through Youtube and The Odin Project(highly recommend this resource for those people who want to learn new languages and frameworks). I love to write clean, professional code, with an emphasis on TDD (Test Driven Development).
 
 I decided to enter software engineering so that I may use my analytical and creative brain to make a difference in the world. Creating tangible results is important to me and I have always had an interest in software engineering. Thanks to a push from my older brother (who has been writing code for ~10 years), I decided to take the leap! 🦘
 
